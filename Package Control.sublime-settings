@@ -1,0 +1,12 @@
+{
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"Haml",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"Theme - Soda"
+	]
+}
